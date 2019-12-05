@@ -1,0 +1,3 @@
+from google.colab import files
+trainingData = files.upload()
+testData = files.upload()
